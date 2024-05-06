@@ -65,7 +65,3 @@ function f05() {
 const directoryPath = path.join(__dirname, 'test')
 console.log(directoryPath);
 console.log(__dirname);
-
-function f06() {
-
-}
