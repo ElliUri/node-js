@@ -1,0 +1,51 @@
+{
+    "library": {
+      "name": "Fantasy Library",
+      "location": "Magical Kingdom",
+      "books": [
+        {
+          "title": "The Chronicles of Elvendom",
+          "author": "Aerion Starfall",
+          "genre": ["Fantasy", "Adventure"],
+          "published_year": 2019,
+          "publisher": "Mythic Publications",
+          "ratings": {
+            "goodreads": 4.5,
+            "amazon": 4.7
+          },
+          "characters": [
+            {
+              "name": "Eldrin",
+              "role": "Elf Prince"
+            },
+            {
+              "name": "Lyra",
+              "role": "Human Mage"
+            }
+          ]
+        },
+        {
+          "title": "Dragons of Fire and Ice",
+          "author": "Valeria Frostwing",
+          "genre": ["Fantasy", "Dragons"],
+          "published_year": 2022,
+          "publisher": "Dragonheart Publishing",
+          "ratings": {
+            "goodreads": 4.8,
+            "amazon": 4.9
+          },
+          "characters": [
+            {
+              "name": "Drakar",
+              "role": "Fire Dragon"
+            },
+            {
+              "name": "Icira",
+              "role": "Ice Dragon"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
